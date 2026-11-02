@@ -9,3 +9,5 @@
 <body>
 <h1>Proyecto inicial Node.js SENA</h1>
 </body>
+<p>Prueba de configuración Node.js‑Git</p>
+<script src="app.js"></script>
